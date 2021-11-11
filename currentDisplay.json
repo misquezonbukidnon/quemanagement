@@ -1,0 +1,30 @@
+{
+  "queue": [
+    {
+      "currentNumber": 2,
+      "stationName": "NOW SERVING",
+      "id": 0
+    },
+    {
+      "currentNumber": 1,
+      "stationName": "NOW SERVING",
+      "id": 1
+    },
+    {
+      "currentNumber": 1,
+      "stationName": "NOW SERVING",
+      "id": 2
+    },
+    {
+      "currentNumber": 1,
+      "stationName": "Vaccination",
+      "id": 3
+    }
+  ],
+  "config": [
+    {
+      "server": "0",
+      "id": 0
+    }
+  ]
+}
